@@ -1,5 +1,6 @@
 # main text of home
 name: Alex Ghirelli
+jobtitle: Fullstack Developer
 bio: A Man who travels the world eating noodles
 
 # twitter summary info
@@ -35,7 +36,7 @@ disqus:
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-twitter: mytwitter
+twitter: alexghirelli
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -45,7 +46,7 @@ spotify: alexghirelli
 github: alexghirelli
 # gitlab: mygitlab
 # lastfm: mylastfm
-stackoverflow: 7044681/mystackoverflow
+#stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
 # medium: medium
