@@ -35,6 +35,14 @@ analytics-google: 'UA-46063053-1'
 disqus:
   shortname: alexghirelli # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
+  
+social:
+name: Alex Ghirelli
+links:
+  - https://twitter.com/alexGhirelli
+  - https://www.facebook.com/ghirellialex
+  - https://www.linkedin.com/in/alexghirelli
+  - https://github.com/alexghirelli
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
@@ -62,7 +70,7 @@ authors:
         bio: A Man who travels the world eating noodles
         external-image: false
         picture: assets/images/alex-ghirelli.jpg
-        #twitter: johndoe
+        twitter: alexGhirelli
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
