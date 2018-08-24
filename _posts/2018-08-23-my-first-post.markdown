@@ -12,9 +12,7 @@ description: My first post.
 
 ![Markdowm Image][1]{: class="bigger-image" }
 
-For several years I tried to open my own blog but it has always been a failure, both for lack of time and for lack of desire.
-<br/><br/>
-Today I'm decided, therefore, here's the first post that will be the starting point, the starting point of a great little story.
+Today want to open my own blog and here's the first post that will be the starting point of a great little story.
 What will I write in this space? Well it will be a bit of a stream of consciousness, so you can read about everything, I will commit myself to write in a systematic way short articles and reflections on the tech world, on the world of coding and occasionally some of my personal reflection as it were a sort of "diary".
 <br/><br/>
 In the hope of being able to capture your attention for a few minutes, I wish you a good reading. 
