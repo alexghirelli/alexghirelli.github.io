@@ -6,7 +6,7 @@ tag:
 - coding, koajs, nodejs, middleware, promise, ldap, authetication
 category: blog
 author: alexghirelli
-description: My first post.
+description: A few days during the implementation of a middleware that allows the authentication of users through the LDAP protocol, I found myself faced with... 
 ---
 
 ![Markdowm Image][koa]{: class="bigger-image" }
