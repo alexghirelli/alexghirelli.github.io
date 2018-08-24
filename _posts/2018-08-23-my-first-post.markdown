@@ -4,10 +4,10 @@ layout: post
 date: 2018-08-23 16:22
 image: "/assets/images/markdown.jpg"
 tag:
-- thought
+- thought, reflection, diary
 category: blog
 author: alexghirelli
-description: My first post.
+description: Today I want to open my own blog and here’s the first post that will be the starting point of a great little story.
 ---
 
 ![Markdowm Image][1]{: class="bigger-image" }

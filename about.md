@@ -24,6 +24,14 @@ layout: page
 	<li>OS: <b>Mac OS</b>, <b>Windows</b>, <b>Linux</b></li>
 </ul>
 
+<h2>Experience</h2>
+
+<ul>
+	<li><a href="https://www.technogym.com" target="_blank"><b>Technogym Spa</b></a> as <b>Fullstack Developer</b> from <u>June 2017</u> to <u>present</u></li>
+	<li><a href="https://www.ey.com/" target="_blank"><b>EY (Ernst & Young)</b></a> as <b>Backend Developer</b> from <u>April 2015</u> to <u>June 2017</u></li>
+	<li><a href="https://www.2mlab.it" target="_blank"><b>2mlab Srl</b></a> as <b>Frontend Developer</b> from <u>January 2015</u> to <u>April 2017</u></li>
+</ul>
+
 <h2>Projects</h2>
 
 <ul>
