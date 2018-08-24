@@ -5,7 +5,7 @@ bio: A Man who love to travels the world, listen to music, code and take some sh
 spotify-playlist: 1h08mN9B7osFVF6StLvp1h?si=LXLXp2uLTiedWXZWpNuoJg 
 
 # twitter summary info
-description: My personal website
+description: A Man who love to travels the world, listen to music, code and take some shot of unforgettable moments!
 
 # if it's an external image, update below for true
 # better with square images
@@ -18,7 +18,7 @@ resume: true
 resume-external: true
 resume-url: https://drive.google.com/open?id=1e5f0CaAhwUxru81sgtRJQiNIfEUAtTST
 
-url: http://www.alexghirelli.it
+url: https://www.alexghirelli.it
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
