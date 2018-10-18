@@ -5,7 +5,7 @@ date: 2018-08-23 16:22
 image: "/assets/images/markdown.jpg"
 tag:
 - thought, reflection, diary
-category: blog
+category: thoughts
 author: alexghirelli
 description: Today I want to open my own blog and here’s the first post that will be the starting point of a great little story.
 ---

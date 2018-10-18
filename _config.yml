@@ -2,11 +2,11 @@
 name: Alex Ghirelli
 title: Alex Ghirelli - Fullstack Developer
 jobtitle: Fullstack Developer
-bio: A NERDY MAN who love to travels the world, listen to music, code and take some shot of unforgettable moments!
-spotify-playlist: 1h08mN9B7osFVF6StLvp1h?si=LXLXp2uLTiedWXZWpNuoJg 
+bio: A NERDY MAN who love to code, travel the world, listen to music and take some shot of unforgettable moments!
+spotify-playlist: 6ys7uEO2mG2AnWr0VSmKNB?si=Rx0b0bCUS523-NsXmyAFqQ
 
 # twitter summary info
-description: A NERDY MAN who love to travels the world, listen to music, code and take some shot of unforgettable moments!
+description: A NERDY MAN who love to code, travel the world, listen to music and take some shot of unforgettable moments!
 
 # if it's an external image, update below for true
 # better with square images
@@ -35,7 +35,7 @@ google_site_verification: 'ObEFBsltQWEy4QN_CGs0pvfw--tdwbBZp-zmuC37ZSs'
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: alexghirelli # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  categories: [thoughts, project] # only show disqus for posts that have these categories
   
 social:
 name: Alex Ghirelli
@@ -49,7 +49,7 @@ links:
 #facebook: myfacebook
 twitter: alexghirelli
 # google: mygoogle
-# instagram: myinstagram
+instagram: alexghirelli
 # pinterest: mypinterest
 linkedin: alexghirelli
 # youtube: myyoutube
@@ -79,8 +79,8 @@ authors:
 width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
-# paginate: 5
-# paginate_path: "blog/:num/"
+paginate: 10
+paginate_path: "thoughts/:num/"
 
 # if you don't need projects, comment the *projects* configs below
 projects: false
@@ -99,7 +99,7 @@ show-tags: true
 related: true
 
 # Display links for next and previous posts for the specified categories
-post-advance-links: [blog]
+post-advance-links: [thoughts]
 
 # show author block at the end of a post ?
 show-author: true
