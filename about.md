@@ -36,6 +36,7 @@ layout: page
 
 <ul>
 	<li><a href="http://www.4live.it" target="_blank">4live.it</a></li>
+	<li><a href="https://trivialyrics.now.sh/" target="_blank">Trivialyrics</a></li>
 	<li><a href="http://www.technogym.com/letsmove" target="_blank" rel="nofollow">Let's Move For a Better World</a></li>
 	<li><a href="http://www.technogym.com/artis" target="_blank" rel="nofollow">Technogym - Artis&reg;</a></li>
 	<li><a href="http://www.amadori.it" target="_blank" rel="nofollow">Amadori - Corporate Website</a></li>
