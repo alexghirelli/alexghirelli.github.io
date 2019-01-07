@@ -11,16 +11,16 @@ layout: page
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>Front-end: <b>HTML5</b>, <b>Javascript</b>, <b>AngularJS</b>, <b>LESS</b>, <b>SASS</b>, <b>CSS3</b></li>
-	<li>Frameworks: <b>Ionic</b>, <b>Bootstrap</b>, <b>Foundation</b>, <b>Koa.js</b>, <b>Express.js</b>, <b>Electron.io</b></li>
+	<li>Front-end: <b>HTML5</b>, <b>Javascript</b>, <b>TypeScript</b>, <b>LESS</b>, <b>SASS</b>, <b>CSS3</b></li>
+	<li>Frameworks: <b>ReactJS</b>. <b>React Native</b>, <b>AngularJS</b>, <b>Angular 2+</b>, <b>Bootstrap</b>, <b>Foundation</b>, <b>Koa.js</b>, <b>Express.js</b>, <b>Electron.io</b></li>
 	<li>Back-end: <b>NodeJS</b>, <b>PHP</b>, <b>Python</b>, <b>C</b></li>
 	<li>Stacks: <b>LEMP</b>, <b>LAMP</b>, <b>MEAN</b></li>
 	<li>Database: <b>MySQL</b>, <b>MongoDB</b>, <b>SQLite</b></li>
 	<li>Unit testing: <b>Mocha</b>, <b>Jasmine</b></li>
 	<li>Task runners: <b>Grunt</b>, <b>Gulp</b>, <b>Yeoman</b></li>
 	<li>Version control: <b>Git</b></li>
-	<li>CMS: <b>Wordpress</b>, <b>Magento</b>, <b>Drupal</b>, <b>Joomla</b></li>
-	<li>Devops: <b>Jenkins</b>, <b>Gitlab</b>, <b>Bitbucket</b>, <b>SVN</b>, <b>NGINX</b>, <b>APACHE</b>, <b>Varnix</b></li>
+	<li>CMS: <b>Wordpress</b>, <b>Magento</b>, <b>Drupal</b>
+	<li>Devops: <b>CircleCI</b>, <b>Jenkins</b>, <b>Gitlab</b>, <b>Bitbucket</b>, <b>Bitbucket Pipelines</b>, <b>SVN</b>, <b>NGINX</b>, <b>APACHE</b>, <b>Varnix</b></li>
 	<li>OS: <b>Mac OS</b>, <b>Windows</b>, <b>Linux</b></li>
 </ul>
 
