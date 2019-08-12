@@ -19,7 +19,7 @@ layout: page
 	<li>Unit testing: <b>Mocha</b>, <b>Jasmine</b></li>
 	<li>Task runners: <b>Grunt</b>, <b>Gulp</b></li>
 	<li>Version control: <b>Git</b>, <b>SVN</b></li>
-	<li>CMS: <b>Wordpress</b>, <b>Magento</b>, <b>Drupal</b>, <b>KeystoneJS</b>
+	<li>CMS: <b>Wordpress</b>, <b>Magento</b>, <b>Drupal</b>, <b>KeystoneJS</b></li>
 	<li>Devops: <b>CircleCI</b>, <b>Jenkins</b>, <b>Gitlab</b>, <b>Bitbucket</b>, <b>Bitbucket Pipelines</b>, <b>SVN</b>, <b>NGINX</b>, <b>APACHE</b>, <b>Varnish</b></li>
 	<li>OS: <b>Mac OS</b>, <b>Windows</b>, <b>Linux</b></li>
 </ul>
