@@ -14,20 +14,21 @@ layout: page
 	<li>Front-end: <b>HTML5</b>, <b>Javascript</b>, <b>TypeScript</b>, <b>LESS</b>, <b>SASS</b>, <b>CSS3</b></li>
 	<li>Frameworks: <b>ReactJS</b>. <b>React Native</b>, <b>AngularJS</b>, <b>Angular 2+</b>, <b>Bootstrap</b>, <b>Foundation</b>, <b>Koa.js</b>, <b>Express.js</b>, <b>Electron.io</b></li>
 	<li>Back-end: <b>NodeJS</b>, <b>PHP</b>, <b>Python</b>, <b>C</b></li>
-	<li>Stacks: <b>LEMP</b>, <b>LAMP</b>, <b>MEAN</b></li>
+	<li>Stacks: <b>LEMP</b>, <b>LAMP</b>, <b>MEAN</b>, <b>MERN</b></li>
 	<li>Database: <b>MySQL</b>, <b>MongoDB</b>, <b>SQLite</b></li>
 	<li>Unit testing: <b>Mocha</b>, <b>Jasmine</b></li>
-	<li>Task runners: <b>Grunt</b>, <b>Gulp</b>, <b>Yeoman</b></li>
-	<li>Version control: <b>Git</b></li>
-	<li>CMS: <b>Wordpress</b>, <b>Magento</b>, <b>Drupal</b>
-	<li>Devops: <b>CircleCI</b>, <b>Jenkins</b>, <b>Gitlab</b>, <b>Bitbucket</b>, <b>Bitbucket Pipelines</b>, <b>SVN</b>, <b>NGINX</b>, <b>APACHE</b>, <b>Varnix</b></li>
+	<li>Task runners: <b>Grunt</b>, <b>Gulp</b></li>
+	<li>Version control: <b>Git</b>, <b>SVN</b></li>
+	<li>CMS: <b>Wordpress</b>, <b>Magento</b>, <b>Drupal</b>, <b>KeystoneJS</b>
+	<li>Devops: <b>CircleCI</b>, <b>Jenkins</b>, <b>Gitlab</b>, <b>Bitbucket</b>, <b>Bitbucket Pipelines</b>, <b>SVN</b>, <b>NGINX</b>, <b>APACHE</b>, <b>Varnish</b></li>
 	<li>OS: <b>Mac OS</b>, <b>Windows</b>, <b>Linux</b></li>
 </ul>
 
 <h2>Experience</h2>
 
 <ul>
-	<li><a href="https://www.technogym.com" target="_blank"><b>Technogym Spa</b></a> as <b>Fullstack Developer</b> from <u>June 2017</u> to <u>present</u></li>
+	<li><a href="https://www.ynap.com" target="_blank"><b>Yoox Net-A-Porter Group</b></a> as <b>Frontend Developer</b> from <u>June 2019</u> to <u>present</u></li>
+	<li><a href="https://www.technogym.com" target="_blank"><b>Technogym Spa</b></a> as <b>Fullstack Developer</b> from <u>June 2017</u> to <u>June 2019</u></li>
 	<li><a href="https://www.ey.com/" target="_blank"><b>EY (Ernst & Young)</b></a> as <b>Backend Developer</b> from <u>April 2015</u> to <u>June 2017</u></li>
 	<li><a href="https://www.2mlab.it" target="_blank"><b>2mlab Srl</b></a> as <b>Frontend Developer</b> from <u>January 2015</u> to <u>April 2017</u></li>
 </ul>
