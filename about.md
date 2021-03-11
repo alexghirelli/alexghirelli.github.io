@@ -27,20 +27,19 @@ layout: page
 <h2>Experience</h2>
 
 <ul>
-	<li><a href="http://www.ynap.com" target="_blank"><b>Yoox Net-A-Porter Group</b></a> as <b>Frontend Developer</b> from <u>June 2019</u> to <u>present</u></li>
-	<li><a href="https://www.technogym.com" target="_blank"><b>Technogym Spa</b></a> as <b>Fullstack Developer</b> from <u>June 2017</u> to <u>June 2019</u></li>
-	<li><a href="https://www.ey.com/" target="_blank"><b>EY (Ernst & Young)</b></a> as <b>Backend Developer</b> from <u>April 2015</u> to <u>June 2017</u></li>
-	<li><a href="https://www.2mlab.it" target="_blank"><b>2mlab Srl</b></a> as <b>Frontend Developer</b> from <u>January 2015</u> to <u>April 2017</u></li>
+	<li><a href="https://www.musixmatch.com" target="_blank"><b>Musixmatch</b></a> as <b>Software Engineer</b> from <u>June 2019</u> to <u>March 2021</u></li>
+	<li><a href="https://www.ynap.com" target="_blank"><b>Yoox Net-A-Porter Group</b></a> as <b>Senior Frontend Engineer</b> from <u>June 2019</u> to <u>March 2021</u></li>
+	<li><a href="https://www.technogym.com" target="_blank"><b>Technogym Spa</b></a> as <b>Senior Frontend Engineer</b> from <u>June 2017</u> to <u>June 2019</u></li>
+	<li><a href="https://www.2mlab.it" target="_blank"><b>2mlab Srl</b></a> as <b>Frontend Engineer</b> from <u>January 2015</u> to <u>April 2017</u></li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="http://www.4live.it" target="_blank">4live.it</a></li>
-	<li><a href="https://trivialyrics.now.sh/" target="_blank">Trivialyrics</a></li>
-	<li><a href="http://www.technogym.com/letsmove" target="_blank" rel="nofollow">Let's Move For a Better World</a></li>
-	<li><a href="http://www.technogym.com/artis" target="_blank" rel="nofollow">Technogym - Artis&reg;</a></li>
-	<li><a href="http://www.amadori.it" target="_blank" rel="nofollow">Amadori - Corporate Website</a></li>
-	<li><a href="http://www.adriaticlng.it" target="_blank" rel="nofollow">AdriaticLng - Corporate Site</a></li>
-	<li><a href="http://www.tecla.it" target="_blank" rel="nofollow">Tecla.it</a></li>
+	<li><a href="https://www.cartier.com/en-gb" target="_blank" rel="nofollow">Cartier</a></li>
+	<li><a href="https://www.balmain.com" target="_blank" rel="nofollow">Balmain</a></li>
+	<li><a href="https://www.karl.com" target="_blank" rel="nofollow">Karl Lagerfeld</a></li>
+	<li><a href="https://www.ferragamo.com" target="_blank" rel="nofollow">Ferragamo</a></li>
+	<li><a href="https://www.technogym.com" target="_blank" rel="nofollow">Technogym</a></li>
+	<li><a href="http://www.amadori.it" target="_blank" rel="nofollow">Amadori</a></li>
 </ul>
