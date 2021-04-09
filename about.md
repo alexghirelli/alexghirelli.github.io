@@ -12,15 +12,17 @@ layout: page
 
 <ul class="skill-list">
 	<li>Front-end: <b>HTML5</b>, <b>Javascript</b>, <b>TypeScript</b>, <b>LESS</b>, <b>SASS</b>, <b>CSS3</b></li>
-	<li>Frameworks: <b>ReactJS</b>. <b>React Native</b>, <b>AngularJS</b>, <b>Angular 2+</b>, <b>Bootstrap</b>, <b>Foundation</b>, <b>Koa.js</b>, <b>Express.js</b>, <b>Electron.io</b></li>
-	<li>Back-end: <b>NodeJS</b>, <b>PHP</b>, <b>Python</b>, <b>C</b></li>
-	<li>Stacks: <b>LEMP</b>, <b>LAMP</b>, <b>MEAN</b>, <b>MERN</b></li>
+	<li>Frameworks: <b>ReactJS</b>. <b>React Native</b>, <b>AngularJS</b>, <b>Angular 2+</b>, <b>Bootstrap</b>, <b>Koa.js</b>, <b>Express.js</b>, <b>Electron.io</b>, <b>Laravel</b>, <b>Symfony</b></li>
+	<li>Back-end: <b>NodeJS</b>, <b>PHP</b>, <b>Python</b>, <b>C#</b></li>
+	<li>AWS: <b>EC2</b>, <b>ECR</b>, <b>ECS</b>, <b>DynamoDB</b>, <b>AppSync</b>, <b>Cloud Formation</b>, <b>API Gateway</b>, <b>Aurora</b></li>
+	<li>Stacks: <b>JAM</b>, <b>LEMP</b>, <b>LAMP</b>, <b>MEAN</b>, <b>MERN</b></li>
 	<li>Database: <b>MySQL</b>, <b>MongoDB</b>, <b>SQLite</b></li>
-	<li>Unit testing: <b>Mocha</b>, <b>Jasmine</b></li>
-	<li>Task runners: <b>Grunt</b>, <b>Gulp</b></li>
+	<li>Testing: <b>Jest</b>, <b>Selenium</b>, <b>Nightwatch</b></li>
+	<li>Packager: <b>Webpack</b></li>
 	<li>Version control: <b>Git</b>, <b>SVN</b></li>
+	<li>CI/CD: <b>CircleCI</b>, <b>Jenkins</b>, <b>Gitlab CI</b>, <b>Github Actions</b>, <b>Bitbucket Pipelines</b></li>
 	<li>CMS: <b>Wordpress</b>, <b>Magento</b>, <b>Drupal</b>, <b>KeystoneJS</b></li>
-	<li>Devops: <b>CircleCI</b>, <b>Jenkins</b>, <b>Gitlab</b>, <b>Bitbucket</b>, <b>Bitbucket Pipelines</b>, <b>SVN</b>, <b>NGINX</b>, <b>APACHE</b>, <b>Varnish</b></li>
+	<li>Devops: <b>GitHub</b>, <b>Bitbucket</b>, <b>NGINX</b>, <b>APACHE</b>, <b>Varnish</b>, <b>Memcached</b></li>
 	<li>OS: <b>Mac OS</b>, <b>Windows</b>, <b>Linux</b></li>
 </ul>
 
